@@ -1,0 +1,17 @@
+|TICKET INFORMATION:
+
+Name: Alex Shah
+Phone: 990099990
+Address: Starts, asd
+Passport Number: 
+Origin: LAHORE
+Destination: KARACHI
+Food: Vegetarian
+Number of Seats: 33
+Class: Business
+Date of departure: 23
+Time: 4.00 PM
+Ticket: HF949
+Bill(in pakistani rupees): 665000/-
+
+|STATUS CONFIRMED
